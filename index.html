@@ -1,0 +1,34 @@
+---
+layout: base
+---
+
+<article class="container">
+  <div class="posts">
+    {% for post in paginator.posts %}
+      {% unless post.draft %}
+        <section class="lang-{{post.language}}">
+            <div class="post-meta">
+              <time >{{ post.date | date: '%B %d, %Y' }}</time>
+            </div>
+            <a href="{{ post.url }}" rel="prefetch">
+              <h2>{{ post.title }}</h2>
+            </a>
+            <p>{{ post.content | strip_html | truncatewords: 40 }} <a href="{{ post.url }}">continue &rarr;</a></p>
+        </section>
+      {% endunless %}
+    {% endfor %}
+  </div>
+</article>
+
+<section class="pagination" style="text-align:center">
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+    <a href="/" class="btn btn-outline">← Newer</a>
+    {% else %}
+    <a href="/page{{ paginator.previous_page }}" class="btn btn-outline">← Newer</a>
+    {% endif %}
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="/page{{ paginator.next_page }}" class="btn btn-outline">Older →</a>
+  {% endif %}
+</section>
