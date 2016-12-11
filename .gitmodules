@@ -1,3 +1,3 @@
 [submodule "styleguide.websiddu.com"]
 	path = styleguide.websiddu.com
-	url = https://github.com/websiddu/styleguide.websiddu.com.git
+	url = git@github.com:websiddu/styleguide.websiddu.com.git
