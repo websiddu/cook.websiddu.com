@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://0.0.0.0:4000//atom.xml" rel="self"/>
  <link href="http://0.0.0.0:4000//"/>
- <updated>2016-12-11T06:21:39+00:00</updated>
+ <updated>2016-12-11T06:28:16+00:00</updated>
  <id>http://0.0.0.0:4000</id>
  <author>
    <name></name>
@@ -17,6 +17,15 @@
    <link href="http://0.0.0.0:4000/roasted-chicken.html"/>
    <updated>2016-09-12T00:00:00+00:00</updated>
    <id>http://0.0.0.0:4000//roasted-chicken</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Quick and tasty beans fry</title>
+   <link href="http://0.0.0.0:4000/quick-and-tasty-beans-fry.html"/>
+   <updated>2015-08-12T00:00:00+00:00</updated>
+   <id>http://0.0.0.0:4000//quick-and-tasty-beans-fry</id>
    <content type="html">
 </content>
  </entry>
