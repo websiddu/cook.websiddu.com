@@ -12,7 +12,7 @@ inc:
   title:        "Siddhartha Gudipati"
   subtitle:     "Random thought about design, technology, beauty, and more..."
   cover_image:  blog-cover.jpg
-  logo:         logo.png
+  logo:         cook.svg
 
   # Comments
   disqus:

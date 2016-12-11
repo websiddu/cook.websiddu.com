@@ -65,7 +65,7 @@ let start = new Date().getTime();
 gulp.task('serve', [ 'styles', 'scripts', 'jekyll'], () => {
 	browserSync({
 		notify: false,
-		port: 9000,
+		port: 9012,
 		proxy: 'localhost:4012',
 		browser: [], // use 'google chrome' and/or 'firefox' to launch browser
 		serveStatic: ['.tmp']
