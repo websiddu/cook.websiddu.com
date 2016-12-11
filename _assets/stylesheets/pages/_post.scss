@@ -25,7 +25,7 @@
 }
 
 .post-content {
-  margin: 3rem 0 0;
+  margin: 3rem 0 3rem;
 
   h1, h2, h3, h4, h5 {
     color: rgba(0, 0, 0, 0.5);
@@ -50,4 +50,34 @@
   }
   margin-bottom: 2rem;
   display: block;
+}
+
+.method {
+  .tip {
+    font-size: 1rem;
+    display: block;
+    margin-top: 10px;
+    color: $grey;
+  }
+}
+
+.ingredients {
+  float: left;
+  background: #fff;
+  // border: solid 1px #eee;
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 1rem;
+    li {
+      padding: 5px 15px 5px 25px;
+      margin: 5px 0;
+      &:nth-child(odd) {
+        background: #f1f7f7;
+      }
+    }
+  }
+
 }

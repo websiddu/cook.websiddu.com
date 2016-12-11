@@ -7,7 +7,8 @@ layout: base
             <h2 class="post-title" role="title">{{page.title}}</h2>
             <div class="post-meta" role="meta">
                 <time>{{ page.date | date: '%B %d, %Y' }}</time> &mdash;
-                <span>{{ page.content | reading_time }}</span>
+                <span> {{ page.prep }} preperation </span> &mdash;
+                <span>{{ page.cook }} cooking</span>
             </div>
             <main class="post-content">
                 {% if page.cover %}
