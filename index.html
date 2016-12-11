@@ -6,14 +6,19 @@ layout: base
   <div class="posts">
     {% for post in paginator.posts %}
       {% unless post.draft %}
-        <section class="lang-{{post.language}}">
-            <div class="post-meta">
-              <time >{{ post.date | date: '%B %d, %Y' }}</time>
+        <section class="lang-{{post.language}} columns">
+            <div class="post-teaser-img column is-7">
+              <img src="{{post.cover}}" alt="{{post.title}}">
             </div>
-            <a href="{{ post.url }}" rel="prefetch">
-              <h2>{{ post.title }}</h2>
-            </a>
-            <p>{{ post.content | strip_html | truncatewords: 40 }} <a href="{{ post.url }}">continue &rarr;</a></p>
+            <div class="post-teaser-content column">
+              <div class="post-meta">
+                <time >{{ post.date | date: '%B %d, %Y' }}</time>
+              </div>
+              <a href="{{ post.url }}" rel="prefetch">
+                <h2>{{ post.title }}</h2>
+              </a>
+              <p>{{ post.content | strip_html | truncatewords: 40 }} <a href="{{ post.url }}">continue &rarr;</a></p>
+            </div>
         </section>
       {% endunless %}
     {% endfor %}
