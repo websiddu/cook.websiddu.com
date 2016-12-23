@@ -4,13 +4,66 @@
  <title></title>
  <link href="http://0.0.0.0:4000//atom.xml" rel="self"/>
  <link href="http://0.0.0.0:4000//"/>
- <updated>2016-12-12T08:00:27+00:00</updated>
+ <updated>2016-12-23T08:10:23+00:00</updated>
  <id>http://0.0.0.0:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Oven baked chicken</title>
+   <link href="http://0.0.0.0:4000/oven-baked-chicken.html"/>
+   <updated>2016-12-22T00:00:00+00:00</updated>
+   <id>http://0.0.0.0:4000//oven-baked-chicken</id>
+   <content type="html">&lt;div class=&quot;columns&quot;&gt;
+  &lt;div class=&quot;column is-5&quot;&gt;
+    &lt;aside&gt;
+      &lt;h3&gt; Ingredients &lt;/h3&gt;
+      &lt;div class=&quot;ingredients&quot;&gt;
+        &lt;ul&gt;
+          &lt;li&gt;3 chicken breast&lt;/li&gt;
+          &lt;li&gt;2 carrots&lt;/li&gt;
+          &lt;li&gt;few brussels sprouts&lt;/li&gt;
+          &lt;li&gt;2 potato&lt;/li&gt;
+          &lt;li&gt;3 tps olive oil&lt;/li&gt;
+          &lt;li&gt;4 finely chopped garlic cloves&lt;/li&gt;
+          &lt;li&gt;pepper, salt, chill powder&lt;/li&gt;
+          &lt;li&gt;roughly chopped coriander&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/div&gt;
+    &lt;/aside&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;method column&quot;&gt;
+    &lt;h3&gt;Method&lt;/h3&gt;
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt; Chop carrots 🥕, brussels sprouts, potato 🥔, and broccoli into big pieces. Put them in a tray mix them evenly with 2 table spoons of olive oil and spread them evenly. &lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;
+        Wash the chicken 🐔 breast and place them on top of the evenly spread veggies apply olive on to the chicken breast give it a little massage 💆 so that oil spreads evenly. Make sure that you give the massage on both the sides.
+        Then sprinkle pinch of salt, petter, chill powder and spread them evenly on both sides. Add the chopped garlic on top of each chicken breast. Place the chicken breast on top of veggies.
+        &lt;span class=&quot;tip&quot;&gt;TIP: The more you massage the more tastier it will be. 🤣&lt;/span&gt;&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Pre heat oven to 400°F or 230°C. Baked the chicken for 45min to 1hr until the chick becomes soft and tender.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;When the chicken is done, remove the chicken from the oven and garnish with coriander and eat it.&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/websiddu/image/upload/v1482479617/cook/middle.jpg&quot; alt=&quot;chicken before going into the oven&quot; /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;https://res.cloudinary.com/websiddu/image/upload/v1482480086/cook/final.jpg&quot; alt=&quot;final&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Roasted chicken</title>
