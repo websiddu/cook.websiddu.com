@@ -29,19 +29,19 @@ cook: 45mins
     <h3>Method</h3>
     <ol>
       <li>
-        <p> Chop carrots 🥕, brussels sprouts, potato 🥔, and broccoli into big pieces. Put them in a tray mix them evenly with 2 table spoons of olive oil and spread them evenly. </p>
+        <p> Chop carrots 🥕, brussels sprouts, potato 🥔, and broccoli into big pieces. Put them in a tray mix them  with 2 table spoons of olive oil and spread them evenly. </p>
       </li>
       <li>
         <p>
-        Wash the chicken 🐔 breast and place them on top of the evenly spread veggies apply olive on to the chicken breast give it a little massage 💆 so that oil spreads evenly. Make sure that you give the massage on both the sides.
+        Wash the chicken breast and place them on top of the evenly spread veggies apply olive on to the chicken breast give it a little massage 💆 so that oil spreads evenly. Make sure that you give the massage on both the sides.
         Then sprinkle pinch of salt, petter, chill powder and spread them evenly on both sides. Add the chopped garlic on top of each chicken breast. Place the chicken breast on top of veggies.
         <span class="tip">TIP: The more you massage the more tastier it will be. 🤣</span></p>
       </li>
       <li>
-        <p>Pre heat oven to 400°F or 230°C. Baked the chicken for 45min to 1hr until the chick becomes soft and tender.</p>
+        <p>Pre heat oven to 400°F or 220°C. Baked the chicken for 45min until the chick becomes soft and tender.</p>
       </li>
       <li>
-        <p>When the chicken is done, remove the chicken from the oven and garnish with coriander and eat it.</p>
+        <p>When the chicken is done, remove the chicken &amp; veggies from the oven and garnish with coriander and eat it.</p>
       </li>
     </ol>
   </div>
